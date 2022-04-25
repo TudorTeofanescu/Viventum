@@ -1,0 +1,26 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-viventum-dev-210656-authRole",
+      "UnauthRoleArn": "arn:aws:iam::328293104253:role/amplify-viventum-dev-210656-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::328293104253:role/amplify-viventum-dev-210656-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-viventum-dev-210656-deployment",
+      "UnauthRoleName": "amplify-viventum-dev-210656-unauthRole",
+      "StackName": "amplify-viventum-dev-210656",
+      "StackId": "arn:aws:cloudformation:us-east-1:328293104253:stack/amplify-viventum-dev-210656/e2fdbb40-c4ca-11ec-917b-12e24fcd589f",
+      "AmplifyAppId": "d2g5nyt0gy1n9u"
+    },
+    "categories": {
+      "auth": {
+        "viventum65dbeb3b": {}
+      },
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "d2g5nyt0gy1n9u",
+          "type": "manual"
+        }
+      }
+    }
+  }
+}

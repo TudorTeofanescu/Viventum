@@ -1,0 +1,5 @@
+{
+  "AppSyncApiName": "viventum",
+  "DynamoDBBillingMode": "PAY_PER_REQUEST",
+  "DynamoDBEnableServerSideEncryption": false
+}
